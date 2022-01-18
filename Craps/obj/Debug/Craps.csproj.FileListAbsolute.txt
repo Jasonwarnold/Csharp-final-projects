@@ -1,0 +1,10 @@
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\bin\Debug\Craps.exe.config
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\bin\Debug\Craps.exe
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\bin\Debug\Craps.pdb
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\obj\Debug\Craps.Form1.resources
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\obj\Debug\Craps.Properties.Resources.resources
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\obj\Debug\Craps.csproj.GenerateResource.cache
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\obj\Debug\Craps.csproj.CoreCompileInputs.cache
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\obj\Debug\Craps.exe
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\obj\Debug\Craps.pdb
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Craps\obj\Debug\Craps.csprojAssemblyReference.cache

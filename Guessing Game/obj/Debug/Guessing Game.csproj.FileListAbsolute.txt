@@ -1,0 +1,10 @@
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\bin\Debug\Guessing Game.exe.config
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\bin\Debug\Guessing Game.exe
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\bin\Debug\Guessing Game.pdb
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\obj\Debug\Guessing Game.csprojAssemblyReference.cache
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\obj\Debug\Guessing_Game.Form1.resources
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\obj\Debug\Guessing_Game.Properties.Resources.resources
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\obj\Debug\Guessing Game.csproj.GenerateResource.cache
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\obj\Debug\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\obj\Debug\Guessing Game.exe
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Guessing Game\obj\Debug\Guessing Game.pdb

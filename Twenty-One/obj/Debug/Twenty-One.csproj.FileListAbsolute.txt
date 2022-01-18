@@ -1,0 +1,10 @@
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\bin\Debug\Twenty-One.exe.config
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\bin\Debug\Twenty-One.exe
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\bin\Debug\Twenty-One.pdb
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\obj\Debug\Twenty-One.csprojAssemblyReference.cache
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\obj\Debug\Twenty_One.Form1.resources
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\obj\Debug\Twenty_One.Properties.Resources.resources
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\obj\Debug\Twenty-One.csproj.GenerateResource.cache
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\obj\Debug\Twenty-One.csproj.CoreCompileInputs.cache
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\obj\Debug\Twenty-One.exe
+C:\Users\Sparkles Mobile\Desktop\Skool files\CIST 2341 C#\Labs\Twenty-One\obj\Debug\Twenty-One.pdb
